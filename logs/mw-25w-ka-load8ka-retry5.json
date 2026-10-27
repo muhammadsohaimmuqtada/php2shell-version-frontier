@@ -1,0 +1,83 @@
+{
+  "label": "25w-ka-load8ka-retry5",
+  "workers": null,
+  "load": 0,
+  "reps": 10,
+  "successes": 10,
+  "rate": 1.0,
+  "median_sec": 5.2,
+  "bg_requests": 8662,
+  "bg_errors": 80,
+  "rows": [
+    {
+      "rep": 1,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 4.6,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 2,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 7.6,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 3,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 5.1,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 4,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 6.4,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 5,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 6.5,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 6,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 3.9,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 7,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 5.2,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 8,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 5.2,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 9,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 7.7,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 10,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 3.9,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    }
+  ]
+}

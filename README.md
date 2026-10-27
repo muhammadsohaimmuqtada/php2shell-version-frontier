@@ -40,6 +40,13 @@ container — a crash or a 500 is never recorded as RCE.
    build's response pattern interpretable before any sweep.
 4. **amd64 confirmation for 8.4.25 / 8.5.10** — upstream published these two
    only for aarch64.
+5. **Field-grade condition matrix** (docs/FIELD_GRADE.md): the chain was
+   measured on a 25-worker server under realistic traffic — published
+   transport fails (0/10); with keep-alive connection pinning
+   (`tools/ka_target.py`) + the standard retry loop it is **10/10
+   (median 5.2 s)**. `display_errors=Off`, PHP-FPM (worker exits code 70 on
+   the pre-RINIT OOM), and current distro packages are measured negative
+   boundaries with named mechanisms.
 5. **Residual-set mechanism** (docs): on ≤ 8.2 branches the corruption fires
    but the leak never leaves the server — `php_session_send_cookie()`
    clears `PS(send_cookie)` unconditionally (a one-line ≥ 8.3 vs ≤ 8.2

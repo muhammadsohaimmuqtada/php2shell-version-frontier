@@ -1,0 +1,83 @@
+{
+  "label": "25w-ka-load8ka",
+  "workers": null,
+  "load": 0,
+  "reps": 10,
+  "successes": 4,
+  "rate": 0.4,
+  "median_sec": 2.7,
+  "bg_requests": 4443,
+  "bg_errors": 40,
+  "rows": [
+    {
+      "rep": 1,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 4.6,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 2,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.6,
+      "detail": "stage3 no proof (chunk=0x7f9c88200000 lib=0x7f9c89f0a000)"
+    },
+    {
+      "rep": 3,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7f9c88200000 lib=0x7f9c89f0a000)"
+    },
+    {
+      "rep": 4,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 5,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7f9c88200000 lib=0x7f9c89f0a000)"
+    },
+    {
+      "rep": 6,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.6,
+      "detail": "stage3 no proof (chunk=0x7f9c88200000 lib=0x7f9c89f0a000)"
+    },
+    {
+      "rep": 7,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7f9c88200000 lib=0x7f9c89f0a000)"
+    },
+    {
+      "rep": 8,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 9,
+      "ok": true,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "rep": 10,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7f9c88200000 lib=0x7f9c89f0a000)"
+    }
+  ]
+}

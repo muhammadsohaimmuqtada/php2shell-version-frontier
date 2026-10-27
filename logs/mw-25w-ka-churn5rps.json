@@ -1,0 +1,83 @@
+{
+  "label": "25w-ka-churn5rps",
+  "workers": null,
+  "load": 1,
+  "reps": 10,
+  "successes": 0,
+  "rate": 0.0,
+  "median_sec": 2.7,
+  "bg_requests": 2256,
+  "bg_errors": 0,
+  "rows": [
+    {
+      "rep": 1,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    },
+    {
+      "rep": 2,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.6,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    },
+    {
+      "rep": 3,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.6,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    },
+    {
+      "rep": 4,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    },
+    {
+      "rep": 5,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.6,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    },
+    {
+      "rep": 6,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    },
+    {
+      "rep": 7,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.6,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    },
+    {
+      "rep": 8,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    },
+    {
+      "rep": 9,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    },
+    {
+      "rep": 10,
+      "ok": false,
+      "stage": "stage3",
+      "sec": 2.7,
+      "detail": "stage3 no proof (chunk=0x7fcec9000000 lib=0x7fcecad3e000)"
+    }
+  ]
+}
