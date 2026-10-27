@@ -1,0 +1,169 @@
+{
+  "chunk": "0x7f6b50a00000",
+  "libphp": "0x7f6b5261c000",
+  "zif": "0x465370",
+  "results": [
+    {
+      "clen": 15,
+      "off": "0x690d8",
+      "sig": "empty/abort",
+      "proof": "uid=33(www-data) gid=33(www-data) groups=33(www-data)"
+    },
+    {
+      "clen": 15,
+      "off": "0x690d0",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x690e0",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x690c8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x690e8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x690b8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x690f8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x69098",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x69118",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x69058",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x69158",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x68fd8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x691d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x68ed8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x692d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x68cd8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x694d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x680d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x6a0d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x650d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x6d0d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x490d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x890d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x1690d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 15,
+      "off": "0x290d8",
+      "sig": "empty/abort",
+      "proof": ""
+    },
+    {
+      "clen": 16,
+      "off": "0x690d8",
+      "sig": "200/777",
+      "proof": ""
+    },
+    {
+      "clen": 32,
+      "off": "0x690d8",
+      "sig": "200/777",
+      "proof": ""
+    }
+  ]
+}

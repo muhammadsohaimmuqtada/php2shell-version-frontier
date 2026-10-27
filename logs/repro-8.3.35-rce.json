@@ -1,0 +1,9 @@
+{
+  "image": "php:8.3.35-apache",
+  "htdata": "0x6a0d8",
+  "carrier_len": 15,
+  "chunk": "0x7f68d8800000",
+  "libphp": "0x7f68da42b000",
+  "proof": "uid=33(www-data) gid=33(www-data) groups=33(www-data)",
+  "source": "clean-repro"
+}
